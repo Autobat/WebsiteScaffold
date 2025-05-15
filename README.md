@@ -48,7 +48,7 @@ This repo is part of that effort — making it easier for others to get started 
 2. `cd payload-cms`
 3. Install dependencies (`npm install`)  
 4. Run PayloadCMS locally (`npm run dev`)  
-5. Navigate to [localhost:3000/admin] PayloadCMS admin site **check the port allocation**
+5. Navigate to [PayloadCMS admin site](http://localhost:3000/admin) **check the port allocation**
 6. Login using admin@tester.com.au and password admin@tester
 ---
 
