@@ -44,12 +44,22 @@ This repo is part of that effort — making it easier for others to get started 
 
 ## 🛠️ Getting Started
 
-1. Clone this repo  
-2. `cd payload-cms`
-3. Install dependencies (`npm install`)  
-4. Run PayloadCMS locally (`npm run dev`)  
-5. Navigate to [PayloadCMS admin site](http://localhost:3000/admin) **check the port allocation**
-6. Login using admin@tester.com.au and password admin@tester
+1. Clone this repo
+
+### PayloadCMS
+1. `cd payload-cms`
+2. Install dependencies (`npm install`)  
+3. Run PayloadCMS locally (`npm run dev`)  
+4. Navigate to [PayloadCMS admin site](http://localhost:3000/admin) **check the port allocation**
+5. Login using admin@tester.com.au and password admin@tester
+
+### next.js front end
+1. `cd frontend`
+2. Install dependencies (`npm install`)  
+3. Run PayloadCMS locally (`npm run dev`)  
+4. Navigate to [next.js home page](http://localhost:3001/) **check the port allocation**
+
+
 ---
 
 ## 📄 License
