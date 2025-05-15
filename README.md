@@ -57,7 +57,7 @@ This repo is part of that effort — making it easier for others to get started 
 1. `cd frontend`
 2. Install dependencies (`npm install`)  
 3. Run PayloadCMS locally (`npm run dev`)  
-4. Navigate to [next.js home page](http://localhost:3001/) **check the port allocation**
+4. Navigate to [Next.js home page](http://localhost:3001/) **check the port allocation**
 
 
 ---
