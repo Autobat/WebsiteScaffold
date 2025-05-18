@@ -62,6 +62,22 @@ This repo is part of that effort — making it easier for others to get started 
 
 ---
 
+## Files that have changed from the scaffolding
+
+Basically a todo list of documentation back on the post im making about this setup
+
+WebsiteScaffold/frontend/src/payload-types.ts
+
+WebsiteScaffold/frontend/src/app/page.tsx
+
+WebsiteScaffold/frontend/src/lib/content.ts
+WebsiteScaffold/frontend/src/lib/ui.ts
+
+WebsiteScaffold/frontend/src/components/blocks/*
+WebsiteScaffold/frontend/src/components/Richtext/*
+
+---
+
 ## 📄 License
 
 MIT — feel free to use, fork, and adapt it for your own lab or project.
