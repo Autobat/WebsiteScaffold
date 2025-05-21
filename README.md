@@ -1,6 +1,6 @@
-# autobat-lab-site-template
+# autobat-payload-nextjs-static-rendering-template
 
-This is a simplified, open-source version of the PayloadCMS + Next.js frontend that powers [autobat.com.au](https://autobat.com.au).
+This simplified, open-source version of the PayloadCMS + Next.js frontend powers [autobat.com.au](https://autobat.com.au).
 
 The live site showcases how I’ve built a secure, scalable lab environment on AWS for learning, experimentation, and real-world workloads. This repo strips out the personal and proprietary bits to provide a clean foundation others can build on.
 
@@ -51,7 +51,7 @@ This repo is part of that effort — making it easier for others to get started 
 2. Install dependencies (`npm install`)  
 3. Run PayloadCMS locally (`npm run dev`)  
 4. Navigate to [PayloadCMS admin site](http://localhost:3000/admin) **check the port allocation**
-5. Login using admin@tester.com.au and password admin@tester
+5. Login using admin@tester.com.au and the password admin@tester
 
 ### next.js front end
 1. `cd frontend`
@@ -64,17 +64,7 @@ This repo is part of that effort — making it easier for others to get started 
 
 ## Files that have changed from the scaffolding
 
-Basically a todo list of documentation back on the post im making about this setup
-
-WebsiteScaffold/frontend/src/payload-types.ts
-
-WebsiteScaffold/frontend/src/app/page.tsx
-
-WebsiteScaffold/frontend/src/lib/content.ts
-WebsiteScaffold/frontend/src/lib/ui.ts
-
-WebsiteScaffold/frontend/src/components/blocks/*
-WebsiteScaffold/frontend/src/components/Richtext/*
+Check out [Customisations](https://www.autobat.com.au/page/building-this-website---part-3) to get details on what has been changed from the scaffolding next.js gives
 
 ---
 
